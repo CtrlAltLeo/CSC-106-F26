@@ -5,7 +5,7 @@
 ```bash
 #!/bin/bash
 curl https://pyenv.run | bash
-~/.pyenv/bin/pyenv install 3.14.7
+~/.pyenv/bin/pyenv install 3.14.4
 
 ```
 
