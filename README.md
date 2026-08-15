@@ -1,5 +1,14 @@
 # CSC-106-F26
 
+# Pyenv - Python Version Manager
+
+```bash
+#!/bin/bash
+curl https://pyenv.run | bash
+~/.pyenv/bin/pyenv install 3.14.7
+
+```
+
 # First Setup
 
 1. Click on the green `Code` button, and select HTTPS
