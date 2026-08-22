@@ -1,13 +1,27 @@
 # CSC-106-F26
 
-# Pyenv - Python Version Manager
+# Day 1
+
+## Setting up Python
 
 ```bash
 #!/bin/bash
-curl https://pyenv.run | bash
-~/.pyenv/bin/pyenv install 3.14.4
-
+sudo apt install python3.14
+alias python="python3.14"
 ```
+
+## Installing Micro
+
+```bash
+sudo apt install micro
+micro helloworld.py
+```
+
+### Micro Keybinds
+`ctrl + s` Save
+`ctrl + q` quit
+`ctrl + c` copy
+`ctrl + v` paste
 
 # First Setup
 
